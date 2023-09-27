@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\BenzinUygulaması.exe.config
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\BenzinUygulaması.exe
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\BenzinUygulaması.pdb
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\EPPlus.dll
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\EPPlus.xml
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\obj\Debug\BenzinUygulaması.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\obj\Debug\BenzinUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\obj\Debug\BenzinUygulaması.csproj.CopyComplete
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\obj\Debug\BenzinUygulaması.exe
+C:\Users\Admin\source\repos\BenzinUygulaması\BenzinUygulaması\obj\Debug\BenzinUygulaması.pdb
